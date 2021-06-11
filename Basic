@@ -85,4 +85,9 @@ System.out.println(itr.next());
 }  
 }  
 
+Queue Interface
+
+Queue<String> q1 = new PriorityQueue();  
+Queue<String> q2 = new ArrayDeque();  
+
 
