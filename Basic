@@ -121,4 +121,12 @@ Deque Interface
 
 Deque d = new ArrayDeque();  
 
+Deque<String> deque = new ArrayDeque<String>();  
+deque.add("Gautam");  
+deque.add("Karan");  
+deque.add("Ajay");  
+//Traversing elements  
+for (String str : deque) {  
+System.out.println(str);
+
 
