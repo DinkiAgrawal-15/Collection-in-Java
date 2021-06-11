@@ -116,3 +116,9 @@ System.out.println(itr2.next());
 }
 
 
+Deque Interface
+
+
+Deque d = new ArrayDeque();  
+
+
